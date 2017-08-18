@@ -10,7 +10,7 @@ My 3d printer called Petra. Main features:
  * e3d titan extruder
  * everything is easily sourcable from AliExpress (khmm...)
 
-All custom design is in OpenSCAD. This repo contains the .scad files only. Compiled .stl files available on Thingiverse.
+All custom design is in OpenSCAD. This repo contains the .scad files only. Compiled .stl files available on [Thingiverse](https://www.thingiverse.com/zsellera/collections/petraprinter).
 
 ## Video
 
