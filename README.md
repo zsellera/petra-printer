@@ -29,7 +29,7 @@ Youtube video here.
 
 ### Things on Y axis
 
-NOTE: on this axis, the linear motion is guied by delrin rollers found on many other printers as well. It provides smooth motion while keeping things very sturdy. The generally accepted opinion on these rolles is you have to source the matching v-wheel alu extrusions for them. I did not. It works, but I by-design overtensioned them, so the POM wheel had to wear-in to have a perfect fit. You might not get a perfect fit, it depends on what wheel and ali extrusion you have. The provided scad file is modifiable though for exactly this reason. Today I wouldn't design it this way (but use mgn12 here as well).
+NOTE: on this axis, the linear motion is guied by delrin rollers found on many other printers as well. It provides smooth motion while keeping things very sturdy. The generally accepted opinion on these rollers is you have to source the matching v-wheel alu extrusions for them. I did not. It works, but I by-design overtensioned them, so the POM wheel had to wear-in to have a perfect fit. You might not get a perfect fit, it depends on what wheel and ali extrusion you have. The provided scad file is modifiable though for exactly this reason. Today I wouldn't design it this way (but use mgn12 here as well).
 
  * `ytable.scad` is a 2D drawing, which I printed and guided to cut the base acryl sheet by hand.
  * `ymotor.scad` for the nema17 mount for Y
@@ -47,3 +47,4 @@ NOTE: on this axis, the linear motion is guied by delrin rollers found on many o
  ### Accessories
 
   * `mksgen_mount.scad` is a double-mount for MKS Gen 1.4 motherboard and a slightly smaller perfboard. Customize to fit your sizes.
+  * `mksgen_blower.scad` 5020 radial fan mount to 2020 extrusion to cool stepper drivers on the motherboard.
