@@ -1,5 +1,7 @@
 # petra-printer
 
+![petra printhead](https://thingiverse-production-new.s3.amazonaws.com/renders/55/9e/9d/2d/ed/254cd0f48ca34ea7914dc01180778fdf_preview_featured.jpg)
+
 My 3d printer called Petra. Main features:
 
  * prusa-style motion system
